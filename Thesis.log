@@ -1,0 +1,1145 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  16 FEB 2020 13:29
+entering extended mode
+**./Thesis.tex
+(Thesis.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerm
+an.ldf"
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+phy)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerm
+anb.ldf"
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+aphy)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen105
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
+sty"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count91
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.s
+ty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))))
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count92
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count93
+\c@listtotal=\count94
+\c@listcount=\count95
+\c@liststart=\count96
+\c@liststop=\count97
+\c@citecount=\count98
+\c@citetotal=\count99
+\c@multicitecount=\count100
+\c@multicitetotal=\count101
+\c@instcount=\count102
+\c@maxnames=\count103
+\c@minnames=\count104
+\c@maxitems=\count105
+\c@minitems=\count106
+\c@citecounter=\count107
+\c@maxcitecounter=\count108
+\c@savedcitecounter=\count109
+\c@uniquelist=\count110
+\c@uniquename=\count111
+\c@refsection=\count112
+\c@refsegment=\count113
+\c@maxextratitle=\count114
+\c@maxextratitleyear=\count115
+\c@maxextraname=\count116
+\c@maxextradate=\count117
+\c@maxextraalpha=\count118
+\c@abbrvpenalty=\count119
+\c@highnamepenalty=\count120
+\c@lownamepenalty=\count121
+\c@maxparens=\count122
+\c@parenlevel=\count123
+\blx@tempcnta=\count124
+\blx@tempcntb=\count125
+\blx@tempcntc=\count126
+\blx@maxsection=\count127
+\blx@maxsegment@0=\count128
+\blx@notetype=\count129
+\blx@parenlevel@text=\count130
+\blx@parenlevel@foot=\count131
+\blx@sectionciteorder@0=\count132
+\blx@entrysetcounter=\count133
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\biblabelsep=\skip45
+\bibitemsep=\skip46
+\bibnamesep=\skip47
+\bibinitsep=\skip48
+\bibparsep=\skip49
+\bibhang=\skip50
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\blx@langwohyphens=\language78
+\c@mincomprange=\count134
+\c@maxcomprange=\count135
+\c@mincompwidth=\count136
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.de
+f"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count137
+\c@savedafterword=\count138
+\c@annotator=\count139
+\c@savedannotator=\count140
+\c@author=\count141
+\c@savedauthor=\count142
+\c@bookauthor=\count143
+\c@savedbookauthor=\count144
+\c@commentator=\count145
+\c@savedcommentator=\count146
+\c@editor=\count147
+\c@savededitor=\count148
+\c@editora=\count149
+\c@savededitora=\count150
+\c@editorb=\count151
+\c@savededitorb=\count152
+\c@editorc=\count153
+\c@savededitorc=\count154
+\c@foreword=\count155
+\c@savedforeword=\count156
+\c@holder=\count157
+\c@savedholder=\count158
+\c@introduction=\count159
+\c@savedintroduction=\count160
+\c@namea=\count161
+\c@savednamea=\count162
+\c@nameb=\count163
+\c@savednameb=\count164
+\c@namec=\count165
+\c@savednamec=\count166
+\c@translator=\count167
+\c@savedtranslator=\count168
+\c@shortauthor=\count169
+\c@savedshortauthor=\count170
+\c@shorteditor=\count171
+\c@savedshorteditor=\count172
+\c@labelname=\count173
+\c@savedlabelname=\count174
+\c@institution=\count175
+\c@savedinstitution=\count176
+\c@lista=\count177
+\c@savedlista=\count178
+\c@listb=\count179
+\c@savedlistb=\count180
+\c@listc=\count181
+\c@savedlistc=\count182
+\c@listd=\count183
+\c@savedlistd=\count184
+\c@liste=\count185
+\c@savedliste=\count186
+\c@listf=\count187
+\c@savedlistf=\count188
+\c@location=\count189
+\c@savedlocation=\count190
+\c@organization=\count191
+\c@savedorganization=\count192
+\c@origlocation=\count193
+\c@savedoriglocation=\count194
+\c@origpublisher=\count195
+\c@savedorigpublisher=\count196
+\c@publisher=\count197
+\c@savedpublisher=\count198
+\c@language=\count199
+\c@savedlanguage=\count266
+\c@origlanguage=\count267
+\c@savedoriglanguage=\count268
+\c@pageref=\count269
+\c@savedpageref=\count270
+\shorthandwidth=\skip51
+\shortjournalwidth=\skip52
+\shortserieswidth=\skip53
+\shorttitlewidth=\skip54
+\shortauthorwidth=\skip55
+\shorteditorwidth=\skip56
+\locallabelnumberwidth=\skip57
+\locallabelalphawidth=\skip58
+\localshorthandwidth=\skip59
+\localshortjournalwidth=\skip60
+\localshortserieswidth=\skip61
+\localshorttitlewidth=\skip62
+\localshortauthorwidth=\skip63
+\localshorteditorwidth=\skip64
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compa
+t.def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-bibte
+x.def"
+File: blx-bibtex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
+def"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count271
+\c@textcitetotal=\count272
+\c@textcitemaxnames=\count273
+\c@biburlbigbreakpenalty=\count274
+\c@biburlbreakpenalty=\count275
+\c@biburlnumpenalty=\count276
+\c@biburlucpenalty=\count277
+\c@biburllcpenalty=\count278
+\biburlbigskip=\muskip11
+\biburlnumskip=\muskip12
+\biburlucskip=\muskip13
+\biburllcskip=\muskip14
+\c@smartand=\count279
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\alpha
+betic.bbx"
+File: alphabetic.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\stand
+ard.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count280
+\c@bbx:relatedtotal=\count281
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\alpha
+betic.cbx"
+File: alphabetic.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
+cfg"
+File: biblatex.cfg 
+))
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsnam.
+def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\ngerm
+an.lbx"
+File: ngerman.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germa
+n.lbx"
+File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germa
+n.lbx"
+File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count282
+\@quotereset=\count283
+(Thesis.aux)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen106
+\scratchbox=\box29
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen107
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\gppas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `Thesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Thesis.bbl' found.
+ (Thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 16.
+Package biblatex Info: Reference segment=0 on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+ [1
+
+{C:/Users/gppas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+
+ []
+
+
+Overfull \hbox (12.2396pt too wide) in paragraph at lines 19--24
+\OT1/cmr/m/n/10.95 Mit der Tech-no-lo-gie Func-ti-on as a Ser-vice ist nach der
+ Microservice-Architektur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--59
+
+ []
+
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 25--59
+[] 
+ []
+
+[3] (Thesis.toc)
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+[5]
+<./images/serviceModels.png, id=22, 1005.7575pt x 1547.7825pt>
+File: ./images/serviceModels.png Graphic file (type png)
+<use ./images/serviceModels.png>
+Package pdftex.def Info: ./images/serviceModels.png  used on input line 100.
+(pdftex.def)             Requested size: 1005.75505pt x 1547.77875pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--101
+
+ []
+
+
+Overfull \hbox (2.27821pt too wide) in paragraph at lines 91--101
+\OT1/cmr/m/it/10.95 "Cloud Com-pu-ting is a mo-del for enab-ling ubi-qui-tous, 
+con-ve-ni-ent, on-demand
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--101
+
+ []
+
+[6] [7 <./images/serviceModels.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 106.
+<./images/ProgrammingModel.png, id=33, 1587.9325pt x 507.8975pt>
+File: ./images/ProgrammingModel.png Graphic file (type png)
+<use ./images/ProgrammingModel.png>
+Package pdftex.def Info: ./images/ProgrammingModel.png  used on input line 112.
+
+(pdftex.def)             Requested size: 360.0pt x 115.13998pt.
+
+Overfull \hbox (10.18839pt too wide) in paragraph at lines 106--113
+\OT1/cmr/m/n/10.95 Function as a Ser-vice (FaaS) ist ein so-ge-nann-tes []Ser-v
+er-less\ Cloud-Computing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+
+ []
+
+[8]
+<./images/FaaS.png, id=40, 979.66pt x 664.4825pt>
+File: ./images/FaaS.png Graphic file (type png)
+<use ./images/FaaS.png>
+Package pdftex.def Info: ./images/FaaS.png  used on input line 122.
+(pdftex.def)             Requested size: 360.0pt x 244.17157pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+[9 <./images/ProgrammingModel.png>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+[11 <./images/FaaS.png>]
+<./images/Serverless.png, id=52, 1186.4325pt x 764.8575pt>
+File: ./images/Serverless.png Graphic file (type png)
+<use ./images/Serverless.png>
+Package pdftex.def Info: ./images/Serverless.png  used on input line 136.
+(pdftex.def)             Requested size: 360.0pt x 232.08493pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--137
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+[13 <./images/Serverless.png>]
+<./images/DependencyGraph.png, id=61, 1214.5375pt x 570.13pt>
+File: ./images/DependencyGraph.png Graphic file (type png)
+<use ./images/DependencyGraph.png>
+Package pdftex.def Info: ./images/DependencyGraph.png  used on input line 172.
+(pdftex.def)             Requested size: 360.0pt x 168.98724pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Overfull \hbox (1.42026pt too wide) in paragraph at lines 143--173
+\OT1/cmr/bx/n/10.95 Optimale Aus-las-tung von Re-chen-zen-tren \OT1/cmr/m/n/10.
+95 Gree-ner Com-pu-ting [SKM20]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--173
+
+ []
+
+[14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[][]\OT1/cmr/m/n/9 https://searchsecurity.techtarget.com/news/450422962/Another
+-AWS-cloud-data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
+
+ []
+
+[17 <./images/DependencyGraph.png>] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+<./images/DevOps.png, id=82, 2517.405pt x 1256.695pt>
+File: ./images/DevOps.png Graphic file (type png)
+<use ./images/DevOps.png>
+Package pdftex.def Info: ./images/DevOps.png  used on input line 213.
+(pdftex.def)             Requested size: 360.0pt x 179.71368pt.
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+[21 <./images/DevOps.png>] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
+
+ []
+
+[24] [25] [26]
+
+LaTeX Warning: Citation 'aws2020ManagingFunctions' on page 27 undefined on inpu
+t line 284.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--297
+
+ []
+
+
+Overfull \hbox (12.87834pt too wide) in paragraph at lines 293--297
+\OT1/cmr/m/n/10.95 Eine Al-ter-na-ti-ve stel-len pro-priet[]are L[]osungen von 
+[]offentlichen Cloud-Vendoren,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--297
+
+ []
+
+[27]
+<./images/Orchestration.png, id=109, 963.6pt x 373.395pt>
+File: ./images/Orchestration.png Graphic file (type png)
+<use ./images/Orchestration.png>
+Package pdftex.def Info: ./images/Orchestration.png  used on input line 312.
+(pdftex.def)             Requested size: 360.0pt x 139.4986pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+
+Overfull \hbox (2.81366pt too wide) in paragraph at lines 301--313
+\OT1/cmr/m/n/10.95 Wie be-reits in \OT1/cmr/m/it/10.95 Po-ten-tia-le und Her-au
+s-for-de-run-gen \OT1/cmr/m/n/10.95 un-ter \OT1/cmr/m/it/10.95 State-less-ness 
+\OT1/cmr/m/n/10.95 erw[]ahnt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+
+Overfull \hbox (17.4713pt too wide) in paragraph at lines 301--313
+\OT1/cmr/m/n/10.95 ausf[]uhrbarer Funk-tio-nen Sei-tens Open-Whisk be-steht, we
+l-che bei []Uberschreitung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--313
+
+ []
+
+[28] [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+[][]\OT1/cmr/m/n/9 https://docs.microsoft.com/en-us/azure/azure-functions/durab
+le/durable-functions-
+ []
+
+[31 <./images/Orchestration.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 370--375
+
+ []
+
+
+Overfull \hbox (0.49876pt too wide) in paragraph at lines 370--375
+\OT1/cmr/m/n/10.95 spie-geln. Statt-des-sen wird ei-ne neue Ver-si-on ei-ner be
+-reits exis-tie-ren-den Funk-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--375
+
+ []
+
+[32]
+<./images/monitoring.png, id=129, 1583.9175pt x 461.725pt>
+File: ./images/monitoring.png Graphic file (type png)
+<use ./images/monitoring.png>
+Package pdftex.def Info: ./images/monitoring.png  used on input line 398.
+(pdftex.def)             Requested size: 360.0pt x 104.94044pt.
+ [33]
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
+
+ []
+
+[34 <./images/monitoring.png>]
+<./images/DevOps modified.png, id=137, 2569.6pt x 1332.98pt>
+File: ./images/DevOps modified.png Graphic file (type png)
+<use ./images/DevOps modified.png>
+Package pdftex.def Info: ./images/DevOps modified.png  used on input line 407.
+(pdftex.def)             Requested size: 360.0pt x 186.73796pt.
+ [35 <./images/DevOps modified.png>] [36]
+Overfull \hbox (21.86467pt too wide) in paragraph at lines 429--429
+\OT1/cmr/m/n/10.95 cloud com-pu-ting''. In: \OT1/cmr/m/it/10.95 Dept. Elec-tri-
+cal Eng. and Com-put. Sciences,
+ []
+
+
+Overfull \hbox (0.32448pt too wide) in paragraph at lines 429--429
+[]\OT1/cmr/m/n/10.95 Antonio Re-ga-la-do. ``Who coi-ned `cloud com-pu-ting'''. 
+In: \OT1/cmr/m/it/10.95 Tech-
+ []
+
+
+Overfull \hbox (16.67262pt too wide) in paragraph at lines 429--429
+[]\OT1/cmr/m/n/10.95 Geoffrey C Fox u.a. ``Sta-tus of ser-ver-less com-pu-ting 
+and function-
+ []
+
+
+Overfull \hbox (11.80263pt too wide) in paragraph at lines 429--429
+[]\OT1/cmr/m/n/10.95 Michael Ro-berts und John Cha-pin. \OT1/cmr/m/it/10.95 Wha
+t Is Ser-ver-less? \OT1/cmr/m/n/10.95 O'Reilly
+ []
+
+[37]
+Overfull \hbox (10.86034pt too wide) in paragraph at lines 429--429
+[]\OT1/cmr/m/n/10.95 Martin Fow-ler. ``Ser-ver-less Ar-chi-tec-tu-res''. In: \O
+T1/cmr/m/it/10.95 mar-t-in-fow-ler.com
+ []
+
+
+Overfull \hbox (12.30774pt too wide) in paragraph at lines 429--429
+\OT1/cmr/m/n/10.95 (2018). htt-ps://www.martinfowler.com/articles/serverless.ht
+ml. 
+ []
+
+[38]
+Overfull \hbox (25.8115pt too wide) in paragraph at lines 429--429
+\OT1/cmr/m/n/10.95 view on ser-ver-less com-pu-ting''. In: \OT1/cmr/m/it/10.95 
+ar-Xiv pre-print ar-Xiv:1902.03383
+ []
+
+
+Overfull \hbox (2.26291pt too wide) in paragraph at lines 429--429
+\OT1/cmr/m/n/10.95 Function-as-a-Service soft-wa-re de-ve-lop-ment in in-dus-tr
+i-al prac-
+ []
+
+[39]
+Overfull \hbox (7.6219pt too wide) in paragraph at lines 429--429
+\OT1/cmr/m/n/10.95 bug-ging ap-proach''. In: \OT1/cmr/m/it/10.95 SICS Software-
+Intensive Cyber-Physical
+ []
+
+
+Overfull \hbox (0.16792pt too wide) in paragraph at lines 429--429
+[]\OT1/cmr/m/n/10.95 Mohammad Shahrad, Jo-na-than Bal-kind und Da-vid Wentzlaff
+.
+ []
+
+[40] (Thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                Thesis
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'Thesis.run.xml'.
+\openout1 = `Thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10018 strings out of 492484
+ 182971 string characters out of 3121601
+ 480051 words of memory out of 3000000
+ 14255 multiletter control sequences out of 15000+200000
+ 10538 words of font info for 37 fonts, out of 3000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 47i,11n,45p,3163b,2191s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gppas/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/gppas/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/gpp
+as/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Users/gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr6.pfb><C:/Users/gppas/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/gppas/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/gppas/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
+gppas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on Thesis.pdf (40 pages, 1021404 bytes).
+PDF statistics:
+ 203 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

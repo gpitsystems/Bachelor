@@ -1,0 +1,15 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+The style file: biblatex.bst
+Database file #1: Thesis-blx.bib
+Database file #2: literatur.bib
+Repeated entry---line 186 of file literatur.bib
+ : @inproceedings{jackson2018investigation
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 276 of file literatur.bib
+ : @article{fox2017status
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "aws2020ManagingFunctions"
+Biblatex version: 3.13
+(There were 2 error messages)
