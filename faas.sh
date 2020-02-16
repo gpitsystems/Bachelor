@@ -119,66 +119,110 @@
 # start microsoft-edge:https://smallpdf.com/result#r=52c4fac73559acf287e5469f2f359964&t=merge
 # start microsoft-edge:https://www.google.com/search?q=ms+in+s&rlz=1C1CHBF_deDE869DE869&oq=ms+in+s&aqs=chrome..69i57j6j0l4j69i60l2.3163j0j7&sourceid=chrome&ie=UTF-8
 
-start microsoft-edge:file:///C:/Users/gppas/Downloads/Tracing%20Function%20Dependencies%20Across%20Clouds-merged.pdf
-start microsoft-edge:https://www.terraform.io/intro/index.html
-start microsoft-edge:https://aws.amazon.com/blogs/compute/implementing-canary-deployments-of-aws-lambda-functions-with-alias-traffic-shifting/
-start microsoft-edge:https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/automating-updates-to-serverless-apps.html
-start microsoft-edge:https://lumigo.io/blog/canary-deployment-for-aws-lambda/
-start microsoft-edge:https://www.centare.com/blog/canary_build/
-start microsoft-edge:https://docs.microsoft.com/en-us/azure/architecture/framework/devops/deployment
-start microsoft-edge:https://github.com/apache/openwhisk/blob/master/core/monitoring/user-events/README.md
-start microsoft-edge:https://github.com/adobe-apiplatform/openwhisk-canary
-start microsoft-edge:https://cloud.google.com/functions/pricing
-start microsoft-edge:https://www.youtube.com/watch?v=d7LsJ0KSlh8
-start microsoft-edge:https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGpnw1d4Cx20LNtxMmV7cUXQLr3Q:1581590811572&q=serverless+open+source+vs+provider&spell=1&sa=X&ved=2ahUKEwjFxIP0rM7nAhVuw8QBHYWxBasQBSgAegQIDRAn&biw=1920&bih=969
-start microsoft-edge:https://serverless.com/learn/comparisons/
-start microsoft-edge:https://www.datamation.com/cloud-computing/top-serverless-vendors.html
-start microsoft-edge:https://kruschecompany.com/serverless-providers-comparison/
-start microsoft-edge:https://opensource.com/article/18/11/open-source-serverless-platforms
-start microsoft-edge:https://nuclio.io/open-source-serverless-simpler-than-lambda/
-start microsoft-edge:https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535
-start microsoft-edge:https://dzone.com/articles/a-serverless-computing-primer-a-comparison
-start microsoft-edge:https://dzone.com/articles/comparing-serverless-architecture-providers-aws-az
-start microsoft-edge:https://digitalcollection.zhaw.ch/bitstream/11475/17123/1/short2.pdf
-start microsoft-edge:file:///C:/Users/gppas/Downloads/EasyChair-Preprint-2577.pdf
-start microsoft-edge:files/hotcloud19-paper-mohan.pdf
-start microsoft-edge:http://nasirifard.de/pubs/openwhisk.pdf
-start microsoft-edge:file:///C:/Bachelorarbeit/Migration/Systematic%20and%20open%20exploration%20of%20FaaS%20and%20Serverless%20Computing%20research.pdf
-start microsoft-edge:file:///C:/Bachelorarbeit/Migration/An%20evaluation%20of%20open%20source%20serverless%20computing%20frameworks.pdf
-start microsoft-edge:https://www.draw.io/\#G1Ggcn1lj9G_Ys7JBWC0Po81Ih4fD8ewKP
-start microsoft-edge:https://www.linguee.com/english-german/search?query=aufgez%C3%A4hlten&source=auto
-start microsoft-edge:https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSyv9tZ0ZQlCKht9dOpcevRB54TQA%3A1581699690656&ei=atJGXpjSJ9LjmwXKrq3QAg&q=opposite+drawback
-start microsoft-edge:http://gegenteile.net/gegenteil-von-einschr%C3%A4nkung
-start microsoft-edge:https://www.google.com/search?q=load+balancing+openwhisk&rlz=1C1CHBF_deDE869DE869&oq=load+balancing+openwhisk&aqs=chrome..69i57.6720j0j7&sourceid=chrome&ie=UTF-8
-start microsoft-edge:https://www.oreilly.com/library/view/learning-apache-openwhisk/9781492046158/ch01.html
-start microsoft-edge:https://scholar.googleusercontent.com/scholar.bib?q=info:Xoimy8N6_vEJ:scholar.google.com/&output=citation&scisdr=CgXOvx7cEOmovKtFLU0:AAGBfm0AAAAAXkdANU076utam1vH_q3FivUeeV0bJPUM&scisig=AAGBfm0AAAAAXkdANYDnIjbG_74p7IbxVTs-LWA1Tglh&scisf=4&ct=citation&cd=-1&hl=en
-start microsoft-edge:https://scholar.googleusercontent.com/scholar.bib?q=info:Xoimy8N6_vEJ:scholar.google.com/&output=citation&scisdr=CgXOvx7cEOmovKtFLU0:AAGBfm0AAAAAXkdANU076utam1vH_q3FivUeeV0bJPUM&scisig=AAGBfm0AAAAAXkdANYDnIjbG_74p7IbxVTs-LWA1Tglh&scisf=4&ct=citation&cd=-1&hl=en
-start microsoft-edge:https://sci-hub.se/10.1109/mcc.2017.32
-start microsoft-edge:https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNR4h_FMq0pdTDJmGJHTkdEaBrHBzQ%3A1581706166860&ei=tutGXuGONK-Kk74P1_-m0AI&q=latex+%40tempf
-start microsoft-edge:https://tex.stackexchange.com/questions/292037/url-causes-missing-inserted-error
-start microsoft-edge:https://www.overleaf.com/learn/latex/Footnotes
-start microsoft-edge:https://serverless.com/blog/serverless-faas-vs-containers/
+# start microsoft-edge:file:///C:/Users/gppas/Downloads/Tracing%20Function%20Dependencies%20Across%20Clouds-merged.pdf
+# start microsoft-edge:https://www.terraform.io/intro/index.html
+# start microsoft-edge:https://aws.amazon.com/blogs/compute/implementing-canary-deployments-of-aws-lambda-functions-with-alias-traffic-shifting/
+# start microsoft-edge:https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/automating-updates-to-serverless-apps.html
+# start microsoft-edge:https://lumigo.io/blog/canary-deployment-for-aws-lambda/
+# start microsoft-edge:https://www.centare.com/blog/canary_build/
+# start microsoft-edge:https://docs.microsoft.com/en-us/azure/architecture/framework/devops/deployment
+# start microsoft-edge:https://github.com/apache/openwhisk/blob/master/core/monitoring/user-events/README.md
+# start microsoft-edge:https://github.com/adobe-apiplatform/openwhisk-canary
+# start microsoft-edge:https://cloud.google.com/functions/pricing
+# start microsoft-edge:https://www.youtube.com/watch?v=d7LsJ0KSlh8
+# start microsoft-edge:https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGpnw1d4Cx20LNtxMmV7cUXQLr3Q:1581590811572&q=serverless+open+source+vs+provider&spell=1&sa=X&ved=2ahUKEwjFxIP0rM7nAhVuw8QBHYWxBasQBSgAegQIDRAn&biw=1920&bih=969
+# start microsoft-edge:https://serverless.com/learn/comparisons/
+# start microsoft-edge:https://www.datamation.com/cloud-computing/top-serverless-vendors.html
+# start microsoft-edge:https://kruschecompany.com/serverless-providers-comparison/
+# start microsoft-edge:https://opensource.com/article/18/11/open-source-serverless-platforms
+# start microsoft-edge:https://nuclio.io/open-source-serverless-simpler-than-lambda/
+# start microsoft-edge:https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535
+# start microsoft-edge:https://dzone.com/articles/a-serverless-computing-primer-a-comparison
+# start microsoft-edge:https://dzone.com/articles/comparing-serverless-architecture-providers-aws-az
+# start microsoft-edge:https://digitalcollection.zhaw.ch/bitstream/11475/17123/1/short2.pdf
+# start microsoft-edge:file:///C:/Users/gppas/Downloads/EasyChair-Preprint-2577.pdf
+# start microsoft-edge:files/hotcloud19-paper-mohan.pdf
+# start microsoft-edge:http://nasirifard.de/pubs/openwhisk.pdf
+# start microsoft-edge:file:///C:/Bachelorarbeit/Migration/Systematic%20and%20open%20exploration%20of%20FaaS%20and%20Serverless%20Computing%20research.pdf
+# start microsoft-edge:file:///C:/Bachelorarbeit/Migration/An%20evaluation%20of%20open%20source%20serverless%20computing%20frameworks.pdf
+# start microsoft-edge:https://www.draw.io/\#G1Ggcn1lj9G_Ys7JBWC0Po81Ih4fD8ewKP
+# start microsoft-edge:https://www.linguee.com/english-german/search?query=aufgez%C3%A4hlten&source=auto
+# start microsoft-edge:https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSyv9tZ0ZQlCKht9dOpcevRB54TQA%3A1581699690656&ei=atJGXpjSJ9LjmwXKrq3QAg&q=opposite+drawback
+# start microsoft-edge:http://gegenteile.net/gegenteil-von-einschr%C3%A4nkung
+# start microsoft-edge:https://www.google.com/search?q=load+balancing+openwhisk&rlz=1C1CHBF_deDE869DE869&oq=load+balancing+openwhisk&aqs=chrome..69i57.6720j0j7&sourceid=chrome&ie=UTF-8
+# start microsoft-edge:https://www.oreilly.com/library/view/learning-apache-openwhisk/9781492046158/ch01.html
+# start microsoft-edge:https://scholar.googleusercontent.com/scholar.bib?q=info:Xoimy8N6_vEJ:scholar.google.com/&output=citation&scisdr=CgXOvx7cEOmovKtFLU0:AAGBfm0AAAAAXkdANU076utam1vH_q3FivUeeV0bJPUM&scisig=AAGBfm0AAAAAXkdANYDnIjbG_74p7IbxVTs-LWA1Tglh&scisf=4&ct=citation&cd=-1&hl=en
+# start microsoft-edge:https://scholar.googleusercontent.com/scholar.bib?q=info:Xoimy8N6_vEJ:scholar.google.com/&output=citation&scisdr=CgXOvx7cEOmovKtFLU0:AAGBfm0AAAAAXkdANU076utam1vH_q3FivUeeV0bJPUM&scisig=AAGBfm0AAAAAXkdANYDnIjbG_74p7IbxVTs-LWA1Tglh&scisf=4&ct=citation&cd=-1&hl=en
+# start microsoft-edge:https://sci-hub.se/10.1109/mcc.2017.32
+# start microsoft-edge:https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNR4h_FMq0pdTDJmGJHTkdEaBrHBzQ%3A1581706166860&ei=tutGXuGONK-Kk74P1_-m0AI&q=latex+%40tempf
+# start microsoft-edge:https://tex.stackexchange.com/questions/292037/url-causes-missing-inserted-error
+# start microsoft-edge:https://www.overleaf.com/learn/latex/Footnotes
+# start microsoft-edge:https://serverless.com/blog/serverless-faas-vs-containers/
 
-start chrome https://web.whatsapp.com/
-start chrome https://www.dict.cc/?s=momentan
-start chrome https://serverless.com/blog/serverless-faas-vs-containers/
-start chrome https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Practical+Tooling+for+Serverless+Computing&btnG=
-start chrome https://dl.acm.org/doi/pdf/10.1145/3147213.3149452?casa_token=dsoxgHCOE1YAAAAA:_gp5UBcEoyFPXqT19sTkI4UlqUFYxdsAzBTFXVvWnkGMVOTl9ywZpcGTxUglHgTJe4elgPt0WmKWHQ
-start chrome https://en.wikipedia.org/wiki/Functional_programming#Functional_programming_in_non-functional_languages
-start chrome https://www.google.com/search?q=oop&rlz=1C1CHBF_deDE869DE869&oq=oop&aqs=chrome..69i57j0l6j69i61.519j0j4&sourceid=chrome&ie=UTF-8
-start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&biw=1564&bih=933&sxsrf=ACYBGNS-LvQeG4Ovy63Qpj2UFNR0BfFj2g%3A1581771080946&ei=SOlHXp6vOYibsAeYmqDIDA&q=convert+passive+sentence+to+active&oq=convert+passive+sentenc&gs_l=psy-ab.3.0.0l2j0i22i30l4.610706.615387..616276...1.1..0.93.1844.25......0....1..gws-wiz.....10..0i71j35i39j0i67j35i362i39j0i273j0i10i67j0i203.PCIg-6voiI4
-start chrome https://www.espressoenglish.net/passive-voice-examples-exercises-present-past/
-start chrome https://www.thesaurus.com/browse/candidate
-start chrome https://app.grammarly.com/ddocs/696656094
-start chrome https://account.grammarly.com/subscription?utm_campaign=PremiumWelcomeReceipt&utm_medium=email&utm_source=Premium%20Welcome%20Emails&utm_content=1B
-start chrome https://www.linguee.com/english-german/search?query=aufgaben&source=auto
-start chrome https://www.dict.cc/?s=nahelegen
-# start chrome file:///C:/Bachelorarbeit/micro19-shahrad-merged.pdf
-start chrome https://smallpdf.com/result#r=eb0b74906473742b9981699ed7d633cc&t=merge
-start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNTcpK66s9z2-aU1nOxAmEvkNpZ_Sg%3A1581783162594&ei=ehhIXvv0I5G0sAeOvIDwCQ&q=phrases+to+begin+a+sentence&oq=phrases+to+begin+a+sentence&gs_l=psy-ab.3..0j0i8i30.2332.2799..3062...0.3..0.82.367.5......0....1..gws-wiz.......0i71j0i7i30j0i8i7i30.xZT6kH2VaMc&ved=0ahUKEwj7mZK8-dPnAhURGuwKHQ4eAJ4Q4dUDCAs&uact=5
-start chrome http://languagelearningbase.com/88597/good-ways-to-start-a-sentence
-start chrome https://owlcation.com/academia/Words-to-Use-in-Starting-Sentences
-start chrome https://www.google.com/search?q=structure+of+a+git+repository&tbm=isch&ved=2ahUKEwjmt_bo_NPnAhUTgHMKHaPbDv8Q2-cCegQIABAA&oq=structure+of+a+git+repository&gs_l=img.3..0i5i30j0i24.5172.5441..6189...0.0..0.62.236.4......0....1..gws-wiz-img.......0i7i5i30.1H-mPC6jGeg&ei=_RtIXqbFMZOAzgOjt7v4Dw&bih=884&biw=1564&rlz=1C1CHBF_deDE869DE869#imgrc=V9-V58fOWHtcjM
-start chrome https://www.draw.io/\#G1BJ655i2XMTfDx8opnCgATmrxnSojfFvw
-start chrome https://aws.amazon.com/cloudformation/
-start chrome https://serverless.com/
+# start chrome https://web.whatsapp.com/
+# start chrome https://www.dict.cc/?s=momentan
+# start chrome https://serverless.com/blog/serverless-faas-vs-containers/
+# start chrome https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Practical+Tooling+for+Serverless+Computing&btnG=
+# start chrome https://dl.acm.org/doi/pdf/10.1145/3147213.3149452?casa_token=dsoxgHCOE1YAAAAA:_gp5UBcEoyFPXqT19sTkI4UlqUFYxdsAzBTFXVvWnkGMVOTl9ywZpcGTxUglHgTJe4elgPt0WmKWHQ
+# start chrome https://en.wikipedia.org/wiki/Functional_programming#Functional_programming_in_non-functional_languages
+# start chrome https://www.google.com/search?q=oop&rlz=1C1CHBF_deDE869DE869&oq=oop&aqs=chrome..69i57j0l6j69i61.519j0j4&sourceid=chrome&ie=UTF-8
+# start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&biw=1564&bih=933&sxsrf=ACYBGNS-LvQeG4Ovy63Qpj2UFNR0BfFj2g%3A1581771080946&ei=SOlHXp6vOYibsAeYmqDIDA&q=convert+passive+sentence+to+active&oq=convert+passive+sentenc&gs_l=psy-ab.3.0.0l2j0i22i30l4.610706.615387..616276...1.1..0.93.1844.25......0....1..gws-wiz.....10..0i71j35i39j0i67j35i362i39j0i273j0i10i67j0i203.PCIg-6voiI4
+# start chrome https://www.espressoenglish.net/passive-voice-examples-exercises-present-past/
+# start chrome https://www.thesaurus.com/browse/candidate
+# start chrome https://app.grammarly.com/ddocs/696656094
+# start chrome https://account.grammarly.com/subscription?utm_campaign=PremiumWelcomeReceipt&utm_medium=email&utm_source=Premium%20Welcome%20Emails&utm_content=1B
+# start chrome https://www.linguee.com/english-german/search?query=aufgaben&source=auto
+# start chrome https://www.dict.cc/?s=nahelegen
+# # start chrome file:///C:/Bachelorarbeit/micro19-shahrad-merged.pdf
+# start chrome https://smallpdf.com/result#r=eb0b74906473742b9981699ed7d633cc&t=merge
+# start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNTcpK66s9z2-aU1nOxAmEvkNpZ_Sg%3A1581783162594&ei=ehhIXvv0I5G0sAeOvIDwCQ&q=phrases+to+begin+a+sentence&oq=phrases+to+begin+a+sentence&gs_l=psy-ab.3..0j0i8i30.2332.2799..3062...0.3..0.82.367.5......0....1..gws-wiz.......0i71j0i7i30j0i8i7i30.xZT6kH2VaMc&ved=0ahUKEwj7mZK8-dPnAhURGuwKHQ4eAJ4Q4dUDCAs&uact=5
+# start chrome http://languagelearningbase.com/88597/good-ways-to-start-a-sentence
+# start chrome https://owlcation.com/academia/Words-to-Use-in-Starting-Sentences
+# start chrome https://www.google.com/search?q=structure+of+a+git+repository&tbm=isch&ved=2ahUKEwjmt_bo_NPnAhUTgHMKHaPbDv8Q2-cCegQIABAA&oq=structure+of+a+git+repository&gs_l=img.3..0i5i30j0i24.5172.5441..6189...0.0..0.62.236.4......0....1..gws-wiz-img.......0i7i5i30.1H-mPC6jGeg&ei=_RtIXqbFMZOAzgOjt7v4Dw&bih=884&biw=1564&rlz=1C1CHBF_deDE869DE869#imgrc=V9-V58fOWHtcjM
+# start chrome https://www.draw.io/\#G1BJ655i2XMTfDx8opnCgATmrxnSojfFvw
+# start chrome https://aws.amazon.com/cloudformation/
+# start chrome https://serverless.com/
+
+start chrome https://www.dict.cc/?s=wie+so+h%C3%A4ufig
+start chrome https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Performance+considerations+on+execution+of+large+scale+workflow+applications+on+cloud+functions&btnG=
+start chrome https://www.researchgate.net/profile/Andrei_Palade/publication/332980072_An_Evaluation_of_Open_Source_Serverless_Computing_Frameworks_Support_at_the_Edge/links/5cd688c5458515712ea31a83/An-Evaluation-of-Open-Source-Serverless-Computing-Frameworks-Support-at-the-Edge.pdf
+start chrome http://faculty.washington.edu/wlloyd/courses/tcss562/papers/AnInvestigationOfTheImpactOfLanguageRuntimeOnThePerformanceAndCostOfServerlessFunctions.pdf
+start chrome https://gupea.ub.gu.se/bitstream/2077/62544/1/gupea_2077_62544_1.pdf
+start chrome https://arxiv.org/pdf/1908.04907.pdf
+start chrome https://arxiv.org/pdf/1909.03555.pdf
+start chrome https://elib.uni-stuttgart.de/bitstream/11682/9318/1/ausarbeitung.pdf
+start chrome https://www.researchgate.net/profile/Hyungro_Lee/publication/324362882_Evaluation_of_Production_Serverless_Computing_Environments/links/5b9c1d84a6fdccd3cb579eca/Evaluation-of-Production-Serverless-Computing-Environments.pdf
+start chrome https://arxiv.org/pdf/1909.03555.pdf
+start chrome https://www.researchgate.net/profile/Pierangelo_Rosati/publication/321753133_A_Preliminary_Review_of_Enterprise_Serverless_Cloud_Computing_Function-as-a-Service_Platforms/links/5a2feb7d458515a13d851ec0/A-Preliminary-Review-of-Enterprise-Serverless-Cloud-Computing-Function-as-a-Service-Platforms.pdf
+start chrome https://research.aalto.fi/files/30436087/mohanty2018serverless.pdf
+start chrome https://dzone.com/articles/comparing-serverless-architecture-providers-aws-az
+
+
+
+ 
+# start chrome https://app.grammarly.com/ddocs/696816372
+# start chrome https://www.deepl.com/translator#de/en/Abw%C3%A4gung%20zwischen%20Open-Source%20und%20Cloud-Vendor
+# start chrome https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Troubleshooting+Serverless+functions%3A+a+combined+monitoring+and+debugging+approach&btnG=
+# start chrome https://www.researchgate.net/profile/Stefan_Winzinger/publication/334084339_Coverage_criteria_for_integration_testing_of_serverless_applications/links/5d22fa5c458515c11c1c0ec9/Coverage-criteria-for-integration-testing-of-serverless-applications.pdf
+# start chrome https://link.springer.com/article/10.1007/s00450-019-00398-6
+# start chrome https://cloud.ibm.com/docs/openwhisk?topic=cloud-functions-monitor
+# start chrome https://kubeless.io/
+# start chrome https://www.thesaurus.com/browse/candidate
+# start chrome https://owlcation.com/academia/Words-to-Use-in-Starting-Sentences
+# # Architectural Implications of Function-as-a-Service Computing: file:///C:/Bachelorarbeit/micro19-shahrad-merged.pdf
+# # Merged.pdf: file:///C:/Users/gppas/Downloads/Merged.pdf
+# # A mixed-method empirical study of Function-as-a-Service software development in industrial practice: file:///C:/Users/gppas/Downloads/A%20Mixed-Method%20Empirical%20Study%20of%20Function-as-a-Service%20Software%20Development%20in%20Industrial%20Practice-merged.pdf
+# start chrome https://dzone.com/articles/comparing-serverless-architecture-providers-aws-az
+# start chrome https://jfrog.com/artifactory/
+# start chrome https://jfrog.com/artifactory/?ss=cloud&utm_source=klogic_google_search&utm_medium=cpc&utm_campaign=MediaBuy_KLogic_Search_SaaS_ARR_Brand_Exact&utm_term=Artifactory_Exact&utm_content=artifactory&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgKl7Zui16Y6Wbh4DB4cLU36VtUR_XR3FrMfikEaahuAIIXU2kNgYgkaAnkpEALw_wcB
+# start chrome https://drive.google.com/drive/my-drive
+# start chrome https://www.draw.io/\#G1RxPlwc9XsQMAeTlzTExUl1g-nKM-GR86
+# start chrome https://www.youtube.com/watch?v=msnQLB2Itmg
+# start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNT65gvgB99MiFmdpW2lqzfDoUZlaw%3A1581859753761&ei=qUNJXvWVLrKimwWAhqS4Ag&q=serverless+open+source+vs+cloud+vendor&oq=serverless+open+source+vs+cloud+vendor&gs_l=psy-ab.3...22146.23751..24210...0.2..0.100.961.10j1......0....1..gws-wiz.......0i71j35i304i39.c5vFyag5tgo&ved=0ahUKEwi1jtTlltbnAhUy0aYKHQADCScQ4dUDCAs&uact=5
+# start chrome https://techbeacon.com/enterprise-it/how-choose-open-source-vs-commercial-cloud-management-tools
+# start chrome https://www.ibm.com/blogs/cloud-computing/2012/07/17/cloud-versus-open-source/
+# start chrome https://www.altexsoft.com/blog/cloud/comparing-serverless-architecture-providers-aws-azure-google-ibm-and-other-faas-vendors/
+# start chrome https://hackernoon.com/serverless-and-open-source-where-do-we-stand-today-dff8aec67026
+# start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNQfgZUPprLiz0zcSrFQgbjGOi0kjQ%3A1581860036342&ei=xERJXuvEFNKImwWQ167ICQ&q=datalog&oq=datalog&gs_l=psy-ab.3..0i203l5j0i10i203j0i203l4.2247654.2248692..2248873...0.1..0.107.549.6j1......0....1..gws-wiz.......0i71j0i273j0j35i39j0i67j0i10.IuQqsSxQirI&ved=0ahUKEwjrtrPsl9bnAhVSxKYKHZCrC5kQ4dUDCAs&uact=5
+
+# Serverless Computing: An Investigation of Deployment Environments for Web APIs 
