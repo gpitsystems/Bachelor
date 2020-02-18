@@ -226,3 +226,28 @@ start chrome https://dzone.com/articles/comparing-serverless-architecture-provid
 # start chrome https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNQfgZUPprLiz0zcSrFQgbjGOi0kjQ%3A1581860036342&ei=xERJXuvEFNKImwWQ167ICQ&q=datalog&oq=datalog&gs_l=psy-ab.3..0i203l5j0i10i203j0i203l4.2247654.2248692..2248873...0.1..0.107.549.6j1......0....1..gws-wiz.......0i71j0i273j0j35i39j0i67j0i10.IuQqsSxQirI&ved=0ahUKEwjrtrPsl9bnAhVSxKYKHZCrC5kQ4dUDCAs&uact=5
 
 # Serverless Computing: An Investigation of Deployment Environments for Web APIs 
+
+Grammarly: https://app.grammarly.com/ddocs/698950094
+last und performance test - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNTVgT-jq6mRda0DSC-ENtKjH-w9qg%3A1582041219581&ei=gwhMXoKRI47zgQbLsI7gCA&q=last+und+performance+test&oq=last+und+per&gs_l=psy-ab.3.0.0i203l4j0i22i30l6.7857.10231..11752...1.1..0.104.1058.12j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i273j0i10i203.i8OLGXB7LGk
+apple - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNRIEgQ1Du1wsv9lS7jqi1MksXXezQ%3A1582041611140&ei=CwpMXo2bCIi4gQbY65vICw&q=apple&oq=apple&gs_l=psy-ab.3..35i39l3j0i67j0i273j0i67l5.351091.351613..351768...0.1..0.87.368.5......0....1..gws-wiz.......0i71j0.7G8inl9hstg&ved=0ahUKEwjNzIGivNvnAhUIXMAKHdj1BrkQ4dUDCAs&uact=5
+Einkaufstasche - Apple (DE): https://www.apple.com/de/shop/bag
+Apple MacBook Pro 2019 16" Intel Core i7 2,60 GHz 512 GB SSD 16 GB spacegrau gut | asgoodasnew: https://asgoodasnew.de/Apple-MacBooks/MacBook-Pro/2019/Apple-MacBook-Pro-2019-16-Intel-Core-i7-2-60-GHz-512-GB-SSD-16-GB-spacegrau-gut.html
+Refurbished 16-inch MacBook Pro 2.6GHz 6-core Intel Core i7 with Retina display- Space Gray - Apple: https://www.apple.com/shop/product/FVVJ2LL/A/Refurbished-16-inch-MacBook-Pro-26GHz-6-core-Intel-Core-i7-with-Retina-display-Space-Gray
+apple refurbished studentenrabatt - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNRGI8ZWoA3S8sNNhxCLSFWbnRO2vQ%3A1582041902523&ei=LgtMXr7PH5a4gAaTyIHYAg&q=apple+refurbished+studentenrabatt&oq=apple+refurbished+&gs_l=psy-ab.1.9.0i203j0j0i203j0l2j0i203l5.398348.402930..407174...2.2..0.97.1210.16......0....1..gws-wiz.......0i71j35i39j0i273j0i67j0i20i263j0i10i203j0i10.b6-nhjFCZoQ
+Refurbished 12,9" iPad Pro Wi-Fi 64 GB – Space Grau (3. Generation) - Bildung - Apple (AT): https://www.apple.com/at-edu/shop/product/FTEL2FD/A/refurbished-129-inch-ipad-pro-wi-fi-64gb-2019-space-gray-3rd-generation?fnode=2f891365af062a4da21c2ab8f1fedc8b84695f42902240bdefaa67930cfc914f3fd72427a4d5af59cb0ff72226fe357de3f5336061645d0f6c5dd4d7d376ce40f9ae2e616a1604943d95738a3c50fa6f
+Save $400 on Apple's latest MacBook Pros with coupon: https://appleinsider.com/articles/19/05/31/the-best-macbook-pro-deals-are-here-save-more-with-promo-code
+Apple offers & February 2020 deals - WIRED: https://www.wired.com/coupons/apple
+architecture decision on using microservice or serverless... - Google Scholar: https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&as_ylo=2019&q=architecture+decision+on+using+microservice+or+serverless+functions+with+containers&btnG=
+search is temporarily unavailable: https://sci-hub.se/
+sam aws - Google Search: https://www.google.com/search?q=sam+aws&rlz=1C1CHBF_deDE869DE869&oq=sam+aws&aqs=chrome..69i57j0l7.5736j0j7&sourceid=chrome&ie=UTF-8
+aws lambda canary testing - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNQeR8u0oqKhSD6YiHF0RiFtl4LGXQ%3A1582043632304&ei=8BFMXoqZEpCQ8gKstIrACQ&q=aws+lambda+canary+testing&oq=aws+lambda+canary+testing&gs_l=psy-ab.3..0i22i30.197080.203999..204229...1.0..1.154.2260.23j3......0....1..gws-wiz.......35i39j0i67j0i273j0j0i20i263j0i203j0i333.Wy6KOPwOpeQ&ved=0ahUKEwiK0ePlw9vnAhUQiFwKHSyaApgQ4dUDCAs&uact=5
+Work with Azure Functions Core Tools | Microsoft Docs: https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows#start
+Set up an API Gateway Canary Release Deployment - Amazon API Gateway: https://docs.aws.amazon.com/apigateway/latest/developerguide/canary-release.html
+AWS Serverless Application Model - Amazon Web Services: https://aws.amazon.com/serverless/sam/
+falls | Übersetzung Englisch-Deutsch: https://www.dict.cc/?s=falls
+canary testing - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&biw=2048&bih=1042&sxsrf=ACYBGNTvy_MPSionlIAAUp4lgsGSLgyR4w%3A1582045621134&ei=tRlMXvLkB9S58gKJ8b6wCA&q=canary+testing&oq=canary+testing&gs_l=psy-ab.3..35i39l2j0i7i30l8.7532.7692..8313...0.3..0.102.168.1j1......0....1..gws-wiz.......0i71.EJN754GRrVM&ved=0ahUKEwiyk5Cay9vnAhXUnFwKHYm4D4YQ4dUDCAs&uact=5
+CanaryRelease: https://martinfowler.com/bliki/CanaryRelease.html
+particular synonym - Google Search: https://www.google.com/search?q=particular+synonym&rlz=1C1CHBF_deDE869DE869&oq=particular+synonym&aqs=chrome..69i57j0l7.5211j1j7&sourceid=chrome&ie=UTF-8
+silence kahlid live - Google Search: https://www.google.com/search?newwindow=1&rlz=1C1CHBF_deDE869DE869&sxsrf=ACYBGNTK-gU8BNDqv2dSJEXTC9dl6DeO7Q%3A1582053219968&ei=YzdMXuDhOu-EmwXc9ZmYDw&q=silence+kahlid+live&oq=silence+kahlid+live&gs_l=psy-ab.3..0i13j0i8i13i30.204195.210357..210499...2.1..0.110.1578.17j2......0....1..gws-wiz.....10..0i71j35i39j0i67j0j35i362i39j0i203j0i20i263j0i10i203j0i10j0i22i30j0i22i10i30j0i13i10.Eg5hDERpDoY&ved=0ahUKEwign8TB59vnAhVvwqYKHdx6BvMQ4dUDCAs&uact=5
+(6) Khalid - Silence (Live) - #VevoHalloween - YouTube: https://www.youtube.com/watch?v=QF0hsIMIZ30
+(6) Marshmello - Silence Ft. Khalid (Official Music Video) - YouTube: https://www.youtube.com/watch?v=Tx1sqYc3qasArchitecture decision on using microservices serverless functions with containers
