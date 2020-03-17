@@ -73,6 +73,33 @@ Ein  weiterer  wichtiger  Punkt,  welcher  sich  auch  bei  anderen  Anbietern  
 
 Ein weiterer wichtiger Punkt, welcher sich auch bei anderen Anbietern findet, ist in der Definition von OpenWhisk zum einen mit ” [...] you can focus on building amazing and efficient applications [...]“ und zum anderen mit ” developers write functional logic [...] in any supported programming language, that can be dynamically scheduled [...]“ 5 . Ersteres meint die Abstraktion der Infrastruktur, welche dem Nutzer zum Bereitstellen von lauffaehigem, skalierbaren, sicheren Backend-Code nicht bekannt sein muss. Die automatische Skalierung und optimale Verteilung von Ressourcen obliegt der Hoheit des Anbiters, und ist dem Nuzter nicht zugaenglich, zumindest bei den proprietaere Anbietern. Letzteres ist zwar keine einzigartige Eigenschaft von FaaS, da dieses Konzept beriets lange bekannt ist und auch bei der Microservice-Enticklung haeufig zum Einsatz kommt, jedoch ist die Auswahl aus vielen verschiedenen Programmiersprachen wie Java, Go, Javascript (Typescript), Python, PHP usw. (abhaengig von dem jeweiligen Anbieter) unter dem Gesichtspunkt der direkten Nutzung zu sehen. Es muss keinerlei zusaetzliches Setup oder andere Konfigurationen in der Umgebung vorgenommen werden, da dies der Anbieter uebernimmt. Er kuemmert sich um Patches und das Upgraden auf die aktuellste Version, was dem Entwickler ein großes Maß anflexibilitaet bei der Entwicklung der Anwendung einraeumt. Eine weitere haeufig in der Literatur referenzierte Defninition ist [Fow18], von Mike Roberts, welche die Beschreibung von AWS Lambda naeher erlaeutert und im groben die oben genannten Punkte wiedergibt. Natuerlich sind diese Eigenschaften mit einem gewissen Venodr Lock-In dieser jedoch weder als schlecht noch gut zu bewerten ist und vielmehr nuechtern auf seine Vor- und Nachteile anasystiert werden sollte. verbunden, da dieser Enstcheidungen ueber die Infrastruktur trifft, mehr dazu in Potentiale und Herausforderungen
 
+              /                                         |                      /                                          
+              |___libs                                  |                     |___.funcignore                                        
+              |||||___externalRequests                  |                     |___.gitignore                                         
+              |||||||||___bitbucket.js                  |                     |___authentication.js                                          
+              |||||||||___geneos.js                     |                     |___database.js                                        
+              |||||||||___oc.js                         |                     |___deployment.js                                          
+              |||||___routes                            |                     |___geneos.js                                          
+              |||||||||___api                           |                     |___promotion.js  
+              |||||||||||||___index.js                  |                     |___node_modules                                           
+              |||||||||___index.js                      |                     |___servicelist.js                                         
+              |||||___util                              |                     |___package-lock.json                                          
+              ||||||||___decrypt.js                     |                     |___package.json                                           
+              ||||||||___execution.js                   |                     |___Readme.md                                          
+              ||||||||___index.js                       |                       
+              ||||||||___logger.js                      |                         
+              |||||___config.js                         |                   
+              |___node_modules                          |                 
+              |___.env                                  | 
+              |___.gitignore                            |             
+              |___app.js                                |     
+              |___clone-oc.sh                           |               
+              |___Dockerfile                            |             
+              |___package-lock.json                     |                           
+              |___package.json                          |                 
+              |___Readme.md                             |           
+
+
               /                                        |                     /                                          
               |___libs                                 |                     |___.funcignore                                        
               |||||___externalRequests                 |                     |___.gitignore                                         
@@ -98,6 +125,5 @@ Ein weiterer wichtiger Punkt, welcher sich auch bei anderen Anbietern findet, is
               |___package-lock.json                    |                                                 
               |___package.json                         |                                            
               |___Readme.md                            |                                         
-
 
 
